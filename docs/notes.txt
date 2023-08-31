@@ -1,0 +1,62 @@
+Sketch notes
+
+---------------------------------------------------
+At the start, do:
+if (rank == base):
+	baseFunction(..)
+else:
+	nodeFunction(..)
+
+---------------------------------------------------
+
+nodeFunction(..):
+compute 2d coordinate based on rank value
+compute the list of adjacent nodes and store the adjacent nodes coordinates in an array
+while (loop):
+	generate random value for temperature
+	if value > threshold eg 80:
+		send request to adjacent nodes
+		receive temperature value from adjacent nodes
+		if the threshold difference between the adjacent and current temperature condition is met:
+			send report alert to base station, including temperature, timestamp, check FAQ on the information to send
+				*need to maintain an efficient send by packing the information rather than multiple sends
+			repeat the loop
+
+---------------------------------------------------
+
+baseFunction(..):
+create a thread (POSIX) to simulate infared satellite
+while (loop):
+	listen for message from nodes
+	receive the alert message from nodes 
+	compare the node's temperature with the temperature in the array (produced by threads)
+	add true or false alert of the temperature into the log
+	break the loop after 100 iterations (example)
+	at the end of each iteration, sleep for 1s
+when done, send termination message to all nodes and the threads
+
+---------------------------------------------------
+
+POSIX thread:
+for each coordinate on the map (base station knows the entire coordinate):
+	generate a random temperature for each of the coordinate
+	apply mutex to prevent race conditions
+	stores each temperature into an array (array will be shared variable - shared memory parallelism)
+	sleep for 100ms
+keep looping until receive a stop message from the base station process  
+
+---------------------------------------------------
+
+For dynamic m and n values:
+provide as command-line arguments
+mpirun -np XX out m n 
+use XX-1 to determine the grid size
+output error message if grid size m and n provided does not match
+
+---------------------------------------------------
+
+Test with:
+2x2
+2x3
+4x5
+

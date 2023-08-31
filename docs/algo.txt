@@ -1,0 +1,50 @@
+keep running as long as it is not terminated:
+  check if there is a termination message: 
+    if yes, terminate by returning
+
+Node will do 3 things by priority and simulatenously
+1) ALWAYS check if there is a termination message
+If there is a termination message: 
+  Stop the whole node function and return
+
+2) ALWAYS generate random temperature value
+Irregardless of the random value > 80, it does 2 things:
+A) ALWAYS ready to receive 
+
+If the value > 80:
+  Send NodeInfo request to all other processes
+  Receive NodeInfo values from all other processes
+  Wait until all NodeInfo values have been received
+  
+  If 2 or more temperature values have difference of ≤ 5:
+    Get the alert time
+    Get the number of nodes within the boundary
+    add the information into an Alert struct
+
+    pack the struct into the buffer
+    for all received processes:
+      pack the received NodeInfo into the buffer
+    send buffer to base station
+
+If NodeInfo request is received: 
+    get rank 
+    get coordinates
+    get temperature (random value generated above)
+    get MAC address 
+    get IP
+    pack those information into a NodeInfo struct
+    send the NodeInfo struct to requesting rank
+
+
+Create a struct Alert to contain information to send:
+- alert time: a struct tm type which contains day, date, time
+- number of matching nodes: an integer
+
+Create a struct NodeInfo to contain the information of nodes to send:
+- rank: an integer
+- coordinates: an array with size 2
+- temperature: an integer
+- MAC address: a character array (string)
+- IP address: a character array (string)
+
+*Note: we cannot create a single struct that stores the alert information + nodes information, because the size of the struct will be dynamic (some ranks will only have 2 neighbors) hence will not be able to create a fixed size struct to send. So to make this dynamic, we pack Alert + NodeInfo into a buffer. If we have 3 nodes info (reporting + 2 neighbors), we will first pack the Alert struct, then pack the number of nodes to send, and lastly pack the 3 NodeInfo structs. 

@@ -1,0 +1,60 @@
+Sketch notes
+
+transform from 1D (7) --> 2D (1,2):
+- row = 7 / 5 = 1
+- col = 7 % 5 = 2
+
+transform from 2D (1,2) --> 1D (7):
+- col = 1 * 5 + 2 = 7
+
+>>>> each node:
+(1)
+- determines its 2d positions
+- determine the adjacent nodes
+
+(2)
+- generate random value within a sensible way for temperature (val)
+- check if the val exceeds a threshold (eg: if val > 80) where 80 is the threshold
+	- send request message to adjacent nodes (calculated in step 1 where adjacent nodes are stored in array)
+	- can use virtual topology to send to all neighbouring nodes (not taught before mid sem break yet)
+	- purpose of sending request is to get their temperature value
+	- receive message from adjacent nodes
+	- compare the adjacent nodes' values with val 
+		7 (1,2) 	85
+		0,2				80 (-5)
+		1,1				78 (-7)
+		1,3				90 (+5)
+		1,2				89 (+4)
+	- set threshold = 5 (example only)
+	- if two or more nodes have more than 5 difference:
+		- report to the base station
+		- use mpi pack to pack as much informatioon as possible 
+		- or send structure instead to pack more information
+	- continue with process step (2)
+
+
+>>> base station:
+- before it runs (1), it will spawn a thread (create threads)
+- threads is to simulate the infared satelite 
+- with a while loop, that generates a random temperature value (be creative in generating to provide higher chance of matching with the nodes' temperature)
+- randomly match the value to the grid
+	- example: temperature = 60
+	- set the value to (1,2) as 60
+	- store the value into an array with its time
+	- if array is full, it will pop out and add a new value
+	- use sleep function to slow down the performance of the program 
+	- look into how can the thread terminates when the main program terminates
+
+(1)
+- listens for incoming message with iprobe or irecv
+- check what kind of message was received and the type of message (maybe with alert tag)
+- if the message is an alert message:
+	- compares the node alert with the array information
+	- if the values matches within a certain range, then termiantes
+- can consider putting sleep 
+- when sleep is greater than 10000 seconds send termination to all nodes to stop program
+
+OR:
+- provide sensible value where user can specify a value at runtime to stop program
+
+

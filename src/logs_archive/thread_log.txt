@@ -1,0 +1,7005 @@
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[2] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[3] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[4] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[5] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[3] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[4] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[5] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[4] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[5] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[5] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 0
+values[0] = 0
+values[1] = 0
+values[2] = 0
+values[3] = 0
+values[4] = 0
+values[5] = 0
+values[6] = 0
+values[7] = 0
+values[8] = 0
+values[9] = 0
+values[10] = 0
+values[11] = 0
+==============
+TIME[0] = 1603902179 = Thu Oct 29 03:22:59 2020
+
+values[0] = 51
+values[1] = 120
+values[2] = 103
+values[3] = 76
+values[4] = 83
+values[5] = 66
+values[6] = 102
+values[7] = 109
+values[8] = 93
+values[9] = 58
+values[10] = 112
+values[11] = 108
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902180 = Thu Oct 29 03:23:00 2020
+
+values[0] = 109
+values[1] = 102
+values[2] = 66
+values[3] = 83
+values[4] = 76
+values[5] = 103
+values[6] = 120
+values[7] = 51
+values[8] = 118
+values[9] = 63
+values[10] = 98
+values[11] = 115
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902181 = Thu Oct 29 03:23:01 2020
+
+values[0] = 102
+values[1] = 109
+values[2] = 83
+values[3] = 66
+values[4] = 103
+values[5] = 76
+values[6] = 51
+values[7] = 120
+values[8] = 63
+values[9] = 118
+values[10] = 115
+values[11] = 98
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902182 = Thu Oct 29 03:23:02 2020
+
+values[0] = 66
+values[1] = 83
+values[2] = 109
+values[3] = 102
+values[4] = 120
+values[5] = 51
+values[6] = 76
+values[7] = 103
+values[8] = 98
+values[9] = 115
+values[10] = 118
+values[11] = 63
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902183 = Thu Oct 29 03:23:03 2020
+
+values[0] = 83
+values[1] = 66
+values[2] = 102
+values[3] = 109
+values[4] = 51
+values[5] = 120
+values[6] = 103
+values[7] = 76
+values[8] = 115
+values[9] = 98
+values[10] = 63
+values[11] = 118
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 108
+values[1] = 112
+values[2] = 58
+values[3] = 93
+values[4] = 118
+values[5] = 63
+values[6] = 98
+values[7] = 115
+values[8] = 76
+values[9] = 103
+values[10] = 120
+values[11] = 51
+==============
+TIME[0] = 1603902184 = Thu Oct 29 03:23:04 2020
+
+values[0] = 112
+values[1] = 58
+values[2] = 93
+values[3] = 118
+values[4] = 63
+values[5] = 98
+values[6] = 115
+values[7] = 76
+values[8] = 103
+values[9] = 120
+values[10] = 51
+values[11] = 109
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902185 = Thu Oct 29 03:23:05 2020
+
+values[0] = 108
+values[1] = 93
+values[2] = 58
+values[3] = 63
+values[4] = 118
+values[5] = 115
+values[6] = 98
+values[7] = 103
+values[8] = 76
+values[9] = 51
+values[10] = 120
+values[11] = 102
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902186 = Thu Oct 29 03:23:06 2020
+
+values[0] = 93
+values[1] = 108
+values[2] = 112
+values[3] = 98
+values[4] = 115
+values[5] = 118
+values[6] = 63
+values[7] = 120
+values[8] = 51
+values[9] = 76
+values[10] = 103
+values[11] = 66
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902187 = Thu Oct 29 03:23:07 2020
+
+values[0] = 58
+values[1] = 112
+values[2] = 108
+values[3] = 115
+values[4] = 98
+values[5] = 63
+values[6] = 118
+values[7] = 51
+values[8] = 120
+values[9] = 103
+values[10] = 76
+values[11] = 83
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902188 = Thu Oct 29 03:23:08 2020
+
+values[0] = 63
+values[1] = 98
+values[2] = 115
+values[3] = 108
+values[4] = 112
+values[5] = 58
+values[6] = 93
+values[7] = 109
+values[8] = 102
+values[9] = 66
+values[10] = 83
+values[11] = 76
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 118
+values[1] = 115
+values[2] = 98
+values[3] = 112
+values[4] = 108
+values[5] = 93
+values[6] = 58
+values[7] = 102
+values[8] = 109
+values[9] = 83
+values[10] = 66
+values[11] = 103
+==============
+TIME[0] = 1603902189 = Thu Oct 29 03:23:09 2020
+
+values[0] = 115
+values[1] = 98
+values[2] = 112
+values[3] = 108
+values[4] = 93
+values[5] = 58
+values[6] = 102
+values[7] = 109
+values[8] = 83
+values[9] = 66
+values[10] = 103
+values[11] = 76
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902190 = Thu Oct 29 03:23:10 2020
+
+values[0] = 118
+values[1] = 63
+values[2] = 58
+values[3] = 93
+values[4] = 108
+values[5] = 112
+values[6] = 66
+values[7] = 83
+values[8] = 109
+values[9] = 102
+values[10] = 120
+values[11] = 51
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902191 = Thu Oct 29 03:23:11 2020
+
+values[0] = 63
+values[1] = 118
+values[2] = 93
+values[3] = 58
+values[4] = 112
+values[5] = 108
+values[6] = 83
+values[7] = 66
+values[8] = 102
+values[9] = 109
+values[10] = 51
+values[11] = 120
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902192 = Thu Oct 29 03:23:12 2020
+
+values[0] = 90
+values[1] = 54
+values[2] = 118
+values[3] = 95
+values[4] = 59
+values[5] = 53
+values[6] = 110
+values[7] = 74
+values[8] = 99
+values[9] = 86
+values[10] = 102
+values[11] = 114
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902193 = Thu Oct 29 03:23:13 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 95
+values[3] = 118
+values[4] = 53
+values[5] = 59
+values[6] = 74
+values[7] = 110
+values[8] = 86
+values[9] = 99
+values[10] = 114
+values[11] = 102
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 108
+values[1] = 73
+values[2] = 59
+values[3] = 53
+values[4] = 118
+values[5] = 95
+values[6] = 99
+values[7] = 86
+values[8] = 110
+values[9] = 74
+values[10] = 91
+values[11] = 108
+==============
+TIME[0] = 1603902194 = Thu Oct 29 03:23:14 2020
+
+values[0] = 73
+values[1] = 59
+values[2] = 53
+values[3] = 118
+values[4] = 95
+values[5] = 99
+values[6] = 86
+values[7] = 110
+values[8] = 74
+values[9] = 91
+values[10] = 108
+values[11] = 102
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902195 = Thu Oct 29 03:23:15 2020
+
+values[0] = 108
+values[1] = 53
+values[2] = 59
+values[3] = 95
+values[4] = 118
+values[5] = 86
+values[6] = 99
+values[7] = 74
+values[8] = 110
+values[9] = 108
+values[10] = 91
+values[11] = 114
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[3] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[3] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[4] = 1603902196 = Thu Oct 29 03:23:16 2020
+
+values[0] = 53
+values[1] = 108
+values[2] = 73
+values[3] = 90
+values[4] = 54
+values[5] = 102
+values[6] = 114
+values[7] = 91
+values[8] = 108
+values[9] = 110
+values[10] = 74
+values[11] = 99
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[3] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[4] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[5] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[3] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[4] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[5] = 1603902202 = Thu Oct 29 03:23:22 2020
+
+values[0] = 91
+values[1] = 108
+values[2] = 102
+values[3] = 114
+values[4] = 90
+values[5] = 54
+values[6] = 108
+values[7] = 73
+values[8] = 59
+values[9] = 53
+values[10] = 118
+values[11] = 95
+==============
+TIME[6] = 1603902197 = Thu Oct 29 03:23:17 2020
+
+values[0] = 59
+values[1] = 73
+values[2] = 108
+values[3] = 54
+values[4] = 90
+values[5] = 114
+values[6] = 102
+values[7] = 108
+values[8] = 91
+values[9] = 74
+values[10] = 110
+values[11] = 86
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74
+==============
+TIME[0] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 54
+values[1] = 90
+values[2] = 73
+values[3] = 108
+values[4] = 108
+values[5] = 91
+values[6] = 114
+values[7] = 102
+values[8] = 86
+values[9] = 99
+values[10] = 74
+values[11] = 110
+==============
+TIME[1] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[2] = 1603902200 = Thu Oct 29 03:23:20 2020
+
+values[0] = 102
+values[1] = 114
+values[2] = 91
+values[3] = 108
+values[4] = 108
+values[5] = 73
+values[6] = 90
+values[7] = 54
+values[8] = 118
+values[9] = 95
+values[10] = 59
+values[11] = 53
+==============
+TIME[3] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[4] = 1603902201 = Thu Oct 29 03:23:21 2020
+
+values[0] = 114
+values[1] = 102
+values[2] = 108
+values[3] = 91
+values[4] = 73
+values[5] = 108
+values[6] = 54
+values[7] = 90
+values[8] = 95
+values[9] = 118
+values[10] = 53
+values[11] = 59
+==============
+TIME[5] = 1603902202 = Thu Oct 29 03:23:22 2020
+
+values[0] = 91
+values[1] = 108
+values[2] = 102
+values[3] = 114
+values[4] = 90
+values[5] = 54
+values[6] = 108
+values[7] = 73
+values[8] = 59
+values[9] = 53
+values[10] = 118
+values[11] = 95
+==============
+TIME[6] = 1603902202 = Thu Oct 29 03:23:22 2020
+
+values[0] = 91
+values[1] = 108
+values[2] = 102
+values[3] = 114
+values[4] = 90
+values[5] = 54
+values[6] = 108
+values[7] = 73
+values[8] = 59
+values[9] = 53
+values[10] = 118
+values[11] = 95
+==============
+TIME[7] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[8] = 1603902198 = Thu Oct 29 03:23:18 2020
+
+values[0] = 95
+values[1] = 90
+values[2] = 54
+values[3] = 108
+values[4] = 73
+values[5] = 91
+values[6] = 108
+values[7] = 102
+values[8] = 114
+values[9] = 99
+values[10] = 86
+values[11] = 110
+==============
+TIME[9] = 1603902199 = Thu Oct 29 03:23:19 2020
+
+values[0] = 118
+values[1] = 54
+values[2] = 90
+values[3] = 73
+values[4] = 108
+values[5] = 108
+values[6] = 91
+values[7] = 114
+values[8] = 102
+values[9] = 86
+values[10] = 99
+values[11] = 74

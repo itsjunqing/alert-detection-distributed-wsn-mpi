@@ -1,0 +1,344 @@
+MAC Address: F0:08:4B:01:00:00
+IP Address: 192.168.122.1
+Neighbour Rank: 5, Coord: (1, 1)
+Neighbour Rank: 7, Coord: (1, 3)
+Neighbour Rank: 2, Coord: (0, 2)
+Neighbour Rank: 10, Coord: (2, 2)
+Temperature: 76
+Temperature: 76
+Rank 6 has received request from 7 and sent the temperature 76 to rank 7
+Temperature: 115
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 115 to rank 2
+Rank 6 has received request from 10 and sent the temperature 115 to rank 10
+Rank 6 has received request from 5 and sent the temperature 115 to rank 5
+Rank 6 has received request from 7 and sent the temperature 115 to rank 7
+Rank 6 has received the temperature 103 from rank 5
+Rank 6 has received the temperature 115 from rank 7
+Rank 6 has received the temperature 109 from rank 2
+Rank 6 has received the temperature 118 from rank 10
+Temperature: 103
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 103 to rank 2
+Rank 6 has received request from 5 and sent the temperature 103 to rank 5
+Rank 6 has received request from 10 and sent the temperature 103 to rank 10
+Rank 6 has received the temperature 115 from rank 5
+Rank 6 has received the temperature 115 from rank 7
+Rank 6 has received the temperature 93 from rank 2
+Rank 6 has received the temperature 109 from rank 10
+Temperature: 51
+Temperature: 120
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 120 to rank 2
+Rank 6 has received request from 5 and sent the temperature 120 to rank 5
+Rank 6 has received request from 10 and sent the temperature 120 to rank 10
+Rank 6 has received request from 2 and sent the temperature 120 to rank 2
+Rank 6 has received request from 10 and sent the temperature 120 to rank 10
+Rank 6 has received request from 7 and sent the temperature 120 to rank 7
+Rank 6 has received the temperature 103 from rank 5
+Rank 6 has received the temperature 103 from rank 7
+Rank 6 has received the temperature 118 from rank 2
+Rank 6 has received the temperature 109 from rank 10
+Temperature: 66
+Temperature: 66
+Rank 6 has received request from 10 and sent the temperature 66 to rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received the temperature 83 from rank 5
+Rank 6 has received the temperature 102 from rank 7
+Rank 6 has received the temperature 118 from rank 2
+Rank 6 has received the temperature 86 from rank 10
+Temperature: 51
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received the temperature 103 from rank 5
+Rank 6 has received the temperature 102 from rank 7
+Rank 6 has received the temperature 93 from rank 2
+Rank 6 has received the temperature 114 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received the temperature 103 from rank 5
+Rank 6 has received the temperature 102 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 108 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received the temperature 91 from rank 5
+Rank 6 has received the temperature 108 from rank 7
+Rank 6 has received the temperature 109 from rank 2
+Rank 6 has received the temperature 99 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received the temperature 91 from rank 5
+Rank 6 has received the temperature 102 from rank 7
+Rank 6 has received the temperature 109 from rank 2
+Rank 6 has received the temperature 99 from rank 10
+Temperature: 109
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 7 and sent the temperature 109 to rank 7
+Rank 6 has received request from 2 and sent the temperature 109 to rank 2
+Rank 6 has received request from 10 and sent the temperature 109 to rank 10
+Rank 6 has received request from 7 and sent the temperature 109 to rank 7
+Rank 6 has received request from 5 and sent the temperature 109 to rank 5
+Rank 6 has received the temperature 120 from rank 5
+Rank 6 has received the temperature 109 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 83 from rank 10
+Temperature: 109
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 109 to rank 2
+Rank 6 has received request from 10 and sent the temperature 109 to rank 10
+Rank 6 has received request from 5 and sent the temperature 109 to rank 5
+Rank 6 has received the temperature 120 from rank 5
+Rank 6 has received the temperature 102 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 112 from rank 10
+Temperature: 109
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 2 and sent the temperature 109 to rank 2
+Rank 6 has received request from 7 and sent the temperature 109 to rank 7
+Rank 6 has received request from 10 and sent the temperature 109 to rank 10
+Rank 6 has received the temperature 120 from rank 5
+Rank 6 has received the temperature 109 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 93 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received the temperature 102 from rank 5
+Rank 6 has received the temperature 109 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 108 from rank 10
+Temperature: 118
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received request from 7 and sent the temperature 118 to rank 7
+Rank 6 has received request from 2 and sent the temperature 118 to rank 2
+Rank 6 has received request from 5 and sent the temperature 118 to rank 5
+Rank 6 has received the temperature 118 from rank 5
+Rank 6 has received the temperature 93 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 108 from rank 10
+Temperature: 118
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received request from 5 and sent the temperature 118 to rank 5
+Rank 6 has received request from 7 and sent the temperature 118 to rank 7
+Rank 6 has received request from 2 and sent the temperature 118 to rank 2
+Rank 6 has received the temperature 118 from rank 5
+Rank 6 has received the temperature 115 from rank 7
+Rank 6 has received the temperature 103 from rank 2
+Rank 6 has received the temperature 108 from rank 10
+Temperature: 118
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received request from 7 and sent the temperature 118 to rank 7
+Rank 6 has received request from 5 and sent the temperature 118 to rank 5
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received request from 5 and sent the temperature 118 to rank 5
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received the temperature 118 from rank 5
+Rank 6 has received the temperature 98 from rank 7
+Rank 6 has received the temperature 76 from rank 2
+Rank 6 has received the temperature 108 from rank 10
+Temperature: 118
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 7 and sent the temperature 118 to rank 7
+Rank 6 has received request from 2 and sent the temperature 118 to rank 2
+Rank 6 has received request from 7 and sent the temperature 118 to rank 7
+Rank 6 has received request from 2 and sent the temperature 118 to rank 2
+Rank 6 has received request from 10 and sent the temperature 118 to rank 10
+Rank 6 has received request from 5 and sent the temperature 118 to rank 5
+Rank 6 has received the temperature 83 from rank 5
+Rank 6 has received the temperature 112 from rank 7
+Rank 6 has received the temperature 115 from rank 2
+Rank 6 has received the temperature 101 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received the temperature 83 from rank 5
+Rank 6 has received the temperature 101 from rank 7
+Rank 6 has received the temperature 120 from rank 2
+Rank 6 has received the temperature 101 from rank 10
+Temperature: 83
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 5 and sent the temperature 83 to rank 5
+Rank 6 has received request from 10 and sent the temperature 83 to rank 10
+Rank 6 has received request from 5 and sent the temperature 83 to rank 5
+Rank 6 has received request from 2 and sent the temperature 83 to rank 2
+Rank 6 has received request from 7 and sent the temperature 83 to rank 7
+Rank 6 has received the temperature 96 from rank 5
+Rank 6 has received the temperature 101 from rank 7
+Rank 6 has received the temperature 83 from rank 2
+Rank 6 has received the temperature 101 from rank 10
+Temperature: 102
+Rank 6 requesting temperature from neighbour rank 5
+Rank 6 awaiting for temperature from neighbour rank 5
+Rank 6 requesting temperature from neighbour rank 7
+Rank 6 awaiting for temperature from neighbour rank 7
+Rank 6 requesting temperature from neighbour rank 2
+Rank 6 awaiting for temperature from neighbour rank 2
+Rank 6 requesting temperature from neighbour rank 10
+Rank 6 awaiting for temperature from neighbour rank 10
+Rank 6 has received request from 10 and sent the temperature 102 to rank 10
+Rank 6 has received request from 2 and sent the temperature 102 to rank 2
+Rank 6 has received request from 7 and sent the temperature 102 to rank 7
+Rank 6 has received request from 5 and sent the temperature 102 to rank 5
+Rank 6 has received the temperature 101 from rank 5
+Rank 6 has received the temperature 82 from rank 7
+Rank 6 has received the temperature 102 from rank 2
+Rank 6 has received the temperature 82 from rank 10
+Temperature: 51
+Rank 6 has received the termination signal
